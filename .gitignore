@@ -1,1 +1,4 @@
 *.blend1
+PCB/#auto_saved_files#/
+PCB/SpinStat-backups/
+*.lck
