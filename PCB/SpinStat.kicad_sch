@@ -1,0 +1,76 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ffc67360-c592-42dc-bf10-3ceba40203bd")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 43.18 29.21)
+		(size 19.05 8.89)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5d22a3c5-a28e-47d3-b10e-f1336e75c38d")
+		(property "Sheetname" "usb_c_v1"
+			(at 43.18 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_c_v1.kicad_sch"
+			(at 43.18 38.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "USB_D_MINUS" input
+			(at 62.23 35.56 0)
+			(uuid "9ccdd7b6-188f-41cf-a77d-bbdaa545753e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USB_D_PLUS" input
+			(at 62.23 33.02 0)
+			(uuid "7bfd109b-35bd-4d2a-bf37-74d62ce5a062")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "SpinStat"
+				(path "/ffc67360-c592-42dc-bf10-3ceba40203bd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
