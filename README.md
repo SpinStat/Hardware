@@ -29,4 +29,4 @@ Exchangeable batteries (this just adds complexity that is "easy to add" at a lat
   - changeable battery packs
   - different sizes of battery packs
   - packs rechargeable independent of main unit
-  
+- USB-C with support for USB 3 speeds
