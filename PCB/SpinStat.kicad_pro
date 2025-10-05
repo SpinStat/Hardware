@@ -428,6 +428,10 @@
     [
       "5d22a3c5-a28e-47d3-b10e-f1336e75c38d",
       "usb_c_v1"
+    ],
+    [
+      "060258cc-e309-4c87-a368-97200a6a50c1",
+      "buttons"
     ]
   ],
   "text_variables": {}
