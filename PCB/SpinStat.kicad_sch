@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 165.735 76.2)
+		(at 192.405 30.48)
 		(size 13.335 17.78)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "060258cc-e309-4c87-a368-97200a6a50c1")
 		(property "Sheetname" "buttons"
-			(at 165.735 75.4884 0)
+			(at 192.405 29.7684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "buttons.kicad_sch"
-			(at 165.735 94.5646 0)
+			(at 192.405 48.8446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40,7 +40,7 @@
 			)
 		)
 		(pin "button_1" input
-			(at 165.735 91.44 180)
+			(at 192.405 45.72 180)
 			(uuid "ba7f3842-42fc-4929-ae1b-640448030c63")
 			(effects
 				(font
@@ -50,7 +50,7 @@
 			)
 		)
 		(pin "button_2" input
-			(at 165.735 88.9 180)
+			(at 192.405 43.18 180)
 			(uuid "651bbf8e-096c-486f-a4f6-b0227c030019")
 			(effects
 				(font
@@ -60,7 +60,7 @@
 			)
 		)
 		(pin "button_3" input
-			(at 165.735 86.36 180)
+			(at 192.405 40.64 180)
 			(uuid "e1fd961d-bca8-4c77-b3bf-6830a0630a7b")
 			(effects
 				(font
@@ -70,7 +70,7 @@
 			)
 		)
 		(pin "button_4" input
-			(at 165.735 83.185 180)
+			(at 192.405 37.465 180)
 			(uuid "ab76fab7-d3bd-43e6-965a-6f469b5b2419")
 			(effects
 				(font
@@ -80,7 +80,7 @@
 			)
 		)
 		(pin "button_5" input
-			(at 165.735 80.645 180)
+			(at 192.405 34.925 180)
 			(uuid "cfa0dda1-5029-4bba-a116-25ba6a922521")
 			(effects
 				(font
@@ -90,7 +90,7 @@
 			)
 		)
 		(pin "button_6" input
-			(at 165.735 78.105 180)
+			(at 192.405 32.385 180)
 			(uuid "9b0f783f-119a-4581-aad4-6ac06114f5ae")
 			(effects
 				(font
